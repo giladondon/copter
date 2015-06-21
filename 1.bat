@@ -1,0 +1,1 @@
+C:\tasm\bin\tasm /zi %1.asm

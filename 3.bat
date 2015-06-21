@@ -1,0 +1,1 @@
+C:\tasm\bin\td %1.exe

@@ -1,0 +1,1 @@
+C:\tasm\bin\tlink /vi %1.obj
