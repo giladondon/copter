@@ -156,6 +156,5 @@ reStart:
 	include 'Grass.asm'
 	include 'obs.asm'
 	include 'clear.asm'
-	include 'Letters.asm'
 	include 'loadPcx.asm'
 END start
